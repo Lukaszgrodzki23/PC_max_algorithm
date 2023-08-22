@@ -1,1 +1,1 @@
-# PC_max_algorithm
+Genetic algorithm that solves PC_max problem
